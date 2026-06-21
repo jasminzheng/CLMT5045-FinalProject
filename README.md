@@ -6,7 +6,7 @@
 - Jasmin Zheng
 
 ## Project Title
-
+Air Quality After Policy Intervention: Beijing's Pollution Trends After the 2013 Clean Air Action Plan
 
 ## Question & Hypothesis 
 Did Beijing's air quality measurably improve over the 2013-2017 Air Pollution Action Plan, and which pollutant carries the clearest policy signal once seasonal and meteorological variation is accounted for? 
