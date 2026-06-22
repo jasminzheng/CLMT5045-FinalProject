@@ -9,7 +9,7 @@
 Air Quality After Policy Intervention: Beijing's Pollution Trends After the 2013 Clean Air Action Plan
 
 ## Question & Hypothesis 
-Did Beijing's air quality measurably improve over the 2013-2017 Air Pollution Action Plan, and which pollutant carries the clearest policy signal once seasonal and meteorological variation is accounted for? 
+Did Beijing's air quality improve during the 2013–2017 Air Pollution Action Plan, and which pollutant showed the clearest downward trend?
 **Hypothesis: **
 Coal-linked SO2 declines sharply and steadily, while PM2.5 improvement is real but smaller and partly masked by year-to-year weather.
 
